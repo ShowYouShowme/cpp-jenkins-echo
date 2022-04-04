@@ -1,2 +1,2 @@
 echo:echo.cpp
-	gcc echo.cpp -o echo
+	g++ echo.cpp -o echo

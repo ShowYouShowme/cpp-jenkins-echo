@@ -4,6 +4,6 @@ int main()
 {
 	std::cout << "Hello" << std::endl;
 	int a;
-	a = a + "hello";
+	a = a + 5;
 	return 0;
 }
